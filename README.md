@@ -1,3 +1,20 @@
+# TicTakToe 
+
+the famous TicTacToe game foe 2 player using React. it depends on react tutorial with some modification using React hooks.
+
+live demo : https://tictactoe-rasha.netlify.app/
+
+image of the final result 
+
+<img src='screenshot/finalresult.png' > 
+
+Repository:
+
+https://github.com/rashaabdulrazzak/TicTackToe 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
